@@ -1,0 +1,110 @@
+anies baswedan calon presiden paling oke saat ini beliau paling pantas penggati pak jokowi
+yang parah itu yang tidak mau terima anies calon presiden
+takut banget pak anies presiden baru calon sudah panik kalo jadi presiden mungkin bisa gila ya
+ide gagasan dan karya itulah bapak anies baswedan calon presiden
+cuman mau bilang kalau anies calon kuat presiden makanya lawan politiknya lakukan berbagai cara untuk menjegalnya
+calon presiden yang di bully anies doang saking takut kalah yang lain enggak diperhitungkn
+
+0.723104
+5.285
+
+1	1	1	1	1	1	1	1	1	1
+1	0	0	1	1	0	0	1	0	0
+1	2	1	1	1	1	1	1	1	1
+1	1	1	1	1	1	2	1	1	1
+1	0	0	1	0	0	0	0	0	0
+1	0	0	0	0	0	0	0	0	0
+0	1	0	0	0	0	0	0	0	0
+0	1	0	0	0	0	0	0	0	0
+0	1	0	0	0	0	0	0	0	0
+0	0	1	0	0	0	0	0	0	0
+0	0	1	0	0	0	0	0	0	0
+0	0	1	0	0	0	0	0	0	0
+0	0	1	0	0	0	0	0	0	0
+0	0	1	0	0	0	0	0	0	0
+0	0	1	0	0	0	0	0	0	0
+0	0	1	0	0	0	0	0	0	0
+0	0	1	0	0	0	0	0	0	0
+0	0	1	0	0	0	0	0	0	0
+0	0	1	0	0	0	0	0	0	0
+0	0	1	0	0	0	0	0	0	0
+0	0	1	0	0	0	0	0	0	0
+0	0	0	1	0	0	0	0	0	0
+0	0	0	1	0	0	0	0	0	0
+0	0	0	1	0	0	0	0	0	0
+0	0	0	0	1	0	0	0	0	0
+0	0	0	0	1	0	0	0	0	0
+0	0	0	0	1	0	0	0	0	0
+0	0	0	0	1	0	0	0	0	0
+0	0	0	0	1	0	0	0	0	0
+0	0	0	0	1	0	0	0	0	0
+0	0	0	0	1	0	0	0	0	0
+0	0	0	0	1	0	1	0	0	0
+0	0	0	0	1	0	0	0	0	0
+0	0	0	0	0	1	0	0	0	1
+0	0	0	0	0	1	0	0	0	0
+0	0	0	0	0	1	0	0	0	0
+0	0	0	0	0	1	0	0	0	0
+0	0	0	0	0	1	0	0	0	0
+0	0	0	0	0	1	0	0	0	0
+0	0	0	0	0	0	1	0	0	1
+0	0	0	0	0	0	1	0	0	0
+0	0	0	0	0	0	1	0	0	0
+0	0	0	0	0	0	1	0	0	0
+0	0	0	0	0	0	1	0	0	0
+0	0	0	0	0	0	1	0	0	0
+0	0	0	0	0	0	1	0	0	0
+0	0	0	0	0	0	1	0	0	0
+0	0	0	0	0	0	1	0	0	0
+0	0	0	0	0	0	1	0	0	0
+0	0	0	0	0	0	0	1	0	0
+0	0	0	0	0	0	0	1	0	0
+0	0	0	0	0	0	0	1	0	0
+0	0	0	0	0	0	0	1	0	0
+0	0	0	0	0	0	0	1	0	0
+0	0	0	0	0	0	0	0	1	0
+0	0	0	0	0	0	0	0	1	0
+0	0	0	0	0	0	0	0	1	0
+0	0	0	0	0	0	0	0	1	0
+0	0	0	0	0	0	0	0	1	0
+0	0	0	0	0	0	0	0	1	0
+0	0	0	0	0	0	0	0	1	0
+0	0	0	0	0	0	0	0	1	0
+0	0	0	0	0	0	0	0	1	0
+0	0	0	0	0	0	0	0	1	0
+0	0	0	0	0	0	0	0	1	0
+0	0	0	0	0	0	0	0	1	0
+0	0	0	0	0	0	0	0	1	0
+0	0	0	0	0	0	0	0	0	1
+0	0	0	0	0	0	0	0	0	1
+0	0	0	0	0	0	0	0	0	1
+0	0	0	0	0	0	0	0	0	1
+0	0	0	0	0	0	0	0	0	1
+0	0	0	0	0	0	0	0	0	1
+0	0	0	0	0	0	0	0	0	0
+0	0	0	0	0	0	0	0	0	1
+
+
+
+beberapa penelitian telah menunjukkan kemampuan mnb dalam analisis sentimen lebih baik dibandingkan algoritma lainnya.
+
+berarti vader lebih unggul sedikit dibandingkan manual anotation dengan selisih akurasi sebesar kurleb 2%
+
+adapun penelitian sebelumnya yang menggunakan lexicon dalam pelabelan data mendapatkan ketidakseimbangan thdp data. Maka dari itu penelitian akan menangani data yang tidak seimbang menggunakan SMOTE.  
+
+pada penelitian yang menggunakan model bernoulli dan multinomial, hasilnya menunjukkan model multinomial NB mendapat akurasi sebesar 93.45% sedangkan untuk bernoulli NB sebesar 90.19%
+
+komparatif adalah jenispenelitian yang digunakan untuk membandingkan antara dua kelompok atau lebihdari suatu variabel tertentu.
+
+berdasarkan penelitian terdahulu yang menggunakan beberapa algo spt mnb, bnb, dan svm menunjukkan bahwa algo mnb memiliki akurasi yang lebih tinggi/baik dari bnb dan svm
+
+seberapa baik hasil akurasi algoritma MNB dengan menggunakan lexicon based serta analisa terhadap sentimen bakal calon presiden 2024.
+
+
+nonton TA1 Kemarin, pak fajri bilang kalau klasifikasi sentimen hanya sebatas sampai akurasi algo nya, dan kalau analisis sentimen sampai melihat hasil sentimennya. brarti  rumusan masalah saya itu bagaimana hasil  akurasi algo sampai hasil sentimen nya pak?
+
+
+
+rumusan tujuan
+dataset
+data imbalance
